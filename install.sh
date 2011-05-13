@@ -296,7 +296,7 @@ echo
 echo "Select your Laptop:"
 echo "1) Alienware M11X"
 echo "2) Dell XPS 15"
-echo "3) Asus N61Jv (X64Jv)"
+echo "3) Asus N61JV/N53SV"
 echo "4) Asus EeePC 1215N"
 echo "5) Acer Aspire 5745PG"
 echo "6) Dell Vostro 3300"
